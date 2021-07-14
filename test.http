@@ -1,0 +1,3 @@
+GET https://api.openweathermap.org/data/2.5/weather?q=yangon&appid=APIKEY&units=metric;
+
+// replace your own APIKEY in APIKEY WORD
